@@ -1,0 +1,10 @@
+{
+    "name": "font_partition",
+    "version": "1.0.0",
+    "description": "字体分区检查组件：运行时校验应用分区是否满足字库最小空间要求（FontPartitionCheck 静态类）",
+    "keywords": "font, partition, check",
+    "author": "chenxyon",
+    "license": "MIT",
+    "frameworks": "espidf",
+    "platforms": ["espressif32"]
+}
